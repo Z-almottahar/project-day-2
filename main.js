@@ -1,8 +1,14 @@
 var x;
-x = '10';
+x = 10;
 
 var y;
-x = '12';
+y = 12;
 
-console.log(x)
-console.log(y)
+var z;
+z = x + y;
+
+console.log(x);
+console.log(y);
+console.log(z);
+
+// defining x, y & z //
