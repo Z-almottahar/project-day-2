@@ -9,6 +9,7 @@
 body{
     height: 100vh;
     background-color: #faf4ee;
+    color: #faf4ee;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,4 +36,5 @@ input{
     outline: none;
     margin-top: .5rem;
     padding: 4px;
+    color: #659962;
 }
